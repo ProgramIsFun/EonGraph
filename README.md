@@ -1,24 +1,24 @@
-# graphproject
+# Graph Project
 
 Here is a description of the graph project.
 
-apart from the Unreal Engine  front end feature requests,  all the other requests will be open as an issue in this master repo
+Apart from the Unreal Engine front end feature requests,  all the other requests will be open as an issue in this master repo
 
 
-1. unreal Engine front end
+1. Unreal Engine front end
 
-https://github.com/ProgramIsFun/ue5-force-graph will serve as the issue repo.  Which means the code there is not used, but the issue will be posted there.
+https://github.com/ProgramIsFun/ue5-force-graph will serve as the issue repo, which means the code there is not used, but the issue will be posted there.
 
-https://github.com/ProgramIsFun/ue5-force-graph53 Will be used as the main repo.
+https://github.com/ProgramIsFun/ue5-force-graph53 will be used as the main repo.
 
-2. website front end
+2. Website front end
    
 https://github.com/ProgramIsFun/force-graph-visualizer-and-editor
 
 
 3. The back end
 
-The back end database will be at https://github.com/ProgramIsFun/neo4j-movies-template-Backup 
+The back end will be at https://github.com/ProgramIsFun/neo4j-movies-template-Backup 
 
 4. 
 
