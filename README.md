@@ -1,4 +1,4 @@
-# CosmosEon
+# EonGraph
 
 Here is a description of the graph project.
 
