@@ -1,4 +1,4 @@
-# CosmosEON
+# CosmosEon
 
 Here is a description of the graph project.
 
