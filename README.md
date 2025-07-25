@@ -14,15 +14,14 @@ https://github.com/ProgramIsFun/ue5-force-graph53 will be used as the main repo.
    
 https://github.com/ProgramIsFun/EonGraph-Web
 
-4. The back end
+3. The back end
 
 https://github.com/ProgramIsFun/EonGraph-Backend 
 
-
-4. backup
+4. Backup
    
 https://github.com/ProgramIsFun/graphBackupHelper1
 
-5. manage the database (Rarely used)
+5. Manage the database (Rarely used)
 
 https://github.com/ProgramIsFun/Graphdatabase Will be used as a repo to manage the database and test the code before put it in a back end.
