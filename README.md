@@ -3,7 +3,7 @@
 This is a project of visualizing graphs and Edit them.
 It is consist of the following components.
 
-1. Unreal Engine front end
+1. Unreal Engine front end (not maintaining)
 
 https://github.com/ProgramIsFun/ue5-force-graph will serve as the issue repo, which means the code there is not used, but the issue will be posted there.
 
