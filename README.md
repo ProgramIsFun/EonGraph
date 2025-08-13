@@ -3,25 +3,11 @@
 This is a project of visualizing graphs and Edit them.
 It is consist of the following components.
 
-1. Unreal Engine front end (not maintaining)
-
-https://github.com/ProgramIsFun/ue5-force-graph will serve as the issue repo, which means the code there is not used, but the issue will be posted there.
-
-https://github.com/ProgramIsFun/ue5-force-graph53 will be used as the main repo.
-
-
-2. Website front end
-   
-https://github.com/ProgramIsFun/EonGraph-Web
-
-3. The back end
-
-https://github.com/ProgramIsFun/EonGraph-Backend 
-
-4. Backup
-   
-https://github.com/ProgramIsFun/graphBackupHelper1
-
-5. Manage the database (Rarely used)
-
-https://github.com/ProgramIsFun/Graphdatabase Will be used as a repo to manage the database and test the code before put it in a back end.
+| # | Component                  | Description                                                      | Repository URL                                                   | Notes                                            |
+|---|----------------------------|------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------|
+| 1 | Unreal Engine Front End    | Visualizing/editing graphs in UE5, not maintained                | [ue5-force-graph](https://github.com/ProgramIsFun/ue5-force-graph)      | Used only for issue posting (code not used).     |
+| 1 | Unreal Engine Main Repo    | Main Unreal Engine project                                       | [ue5-force-graph53](https://github.com/ProgramIsFun/ue5-force-graph53)  | Active development.                              |
+| 2 | Website Front End          | Web-based graph visualization and editing                        | [EonGraph-Web](https://github.com/ProgramIsFun/EonGraph-Web)            |                                                  |
+| 3 | Back End                   | API and logic behind the graph visualizations                    | [EonGraph-Backend](https://github.com/ProgramIsFun/EonGraph-Backend)    |                                                  |
+| 4 | Backup                     | Backup utility for the graph data                                | [graphBackupHelper1](https://github.com/ProgramIsFun/graphBackupHelper1)|                                                  |
+| 5 | Database Management        | Rarely used, for database management and backend code testing     | [Graphdatabase](https://github.com/ProgramIsFun/Graphdatabase)          | Test code before backend integration.            |
