@@ -11,3 +11,5 @@ It is consist of the following components.
 | 3 | Back End                   | API and logic behind the graph visualizations                    | [EonGraph-Backend](https://github.com/ProgramIsFun/EonGraph-Backend)    |                                                  |
 | 4 | Backup                     | Backup utility for the graph data                                | [EonGraph-BackupHelper](https://github.com/ProgramIsFun/EonGraph-BackupHelper)|                                                  |
 | 5 | Database Management        | no longer used, for database management and backend code testing     | [EonGraph-DatabaseManager](https://github.com/ProgramIsFun/EonGraph-DatabaseManager)          | Test code before backend integration.            |
+| 6 | Schema Management          | Graph schema definitions for backend and other components        | [EonGraph-Schema](https://github.com/ProgramIsFun/EonGraph-Schema)      | Schema shared across the project.                |
+
