@@ -15,6 +15,6 @@ It is consist of the following components.
 | 2 | Website Front End          | Web-based front end for graph visualization and editing                        | [EonGraph-Web](https://github.com/ProgramIsFun/EonGraph-Web)            |  Active development.                                                  |
 | 3 | Back End                   | API and logic behind the graph visualizations                    | [EonGraph-Backend](https://github.com/ProgramIsFun/EonGraph-Backend)    |     Active development.                                             |
 | 4 | Backup                     | Backup utility for the graph data                                | [EonGraph-BackupHelper](https://github.com/ProgramIsFun/EonGraph-BackupHelper)|                                                  |
-| 5 | Database Management        | no longer used, for database management and backend code testing     | [EonGraph-DatabaseManager](https://github.com/ProgramIsFun/EonGraph-DatabaseManager)          | Test code before backend integration.            |
+| 5 | Useful Script       |  for database management, etc     | [EonGraph-UsefulScript](https://github.com/ProgramIsFun/EonGraph-UsefulScript)          | Test code before backend integration.            |
 | 6 | Schema Management          | Graph schema definitions for backend and other components        | [EonGraph-Schema](https://github.com/ProgramIsFun/EonGraph-Schema)      | Schema shared across the project.                |
 
