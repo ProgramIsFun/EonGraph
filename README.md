@@ -1,6 +1,11 @@
 # EonGraph
-
+## About this project
 This is a project of visualizing graphs and Edit them.
+## How to run it 
+1. ensure you have a running neo4j instance
+2. 
+## project structure
+
 It is consist of the following components.
 
 | # | Component                  | Description                                                      | Repository URL                                                   | Notes                                            |
