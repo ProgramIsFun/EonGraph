@@ -10,7 +10,7 @@ It is consist of the following components.
 
 | # | Component                  | Description                                                      | Repository URL                                                   | Notes                                            |
 |---|----------------------------|------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------|
-| 1 | Unreal Engine Front End Issues    |    Posting issues here for UE related thing            | [ue5-force-graph](https://github.com/ProgramIsFun/ue5-force-graph)      | Used only for issue posting (code not used).     |
+| 1 | Issues for Front End (Unreal Engine)   |    Posting issues here for UE related thing            | [ue5-force-graph](https://github.com/ProgramIsFun/ue5-force-graph)      | Used only for issue posting (code not used).     |
 | 1 | Front End (Unreal Engine)   | Unreal Engine-based front end for  graph visualization and editing                       | [ue5-force-graph53](https://github.com/ProgramIsFun/ue5-force-graph53)  |                             |
 | 2 | Front End (Website)          | Web-based front end for graph visualization and editing                        | [EonGraph-Web](https://github.com/ProgramIsFun/EonGraph-Web)            |  Active development.                                                  |
 | 3 | Back End                   | API and logic behind the graph visualizations                    | [EonGraph-Backend](https://github.com/ProgramIsFun/EonGraph-Backend)    |     Active development.                                             |
