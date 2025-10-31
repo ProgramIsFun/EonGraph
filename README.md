@@ -4,7 +4,7 @@ This is a project of visualizing graphs and Edit them.
 ## How to run it 
 1. run backend [EonGraph-Backend](https://github.com/ProgramIsFun/EonGraph-Backend) according to readme
 2. run  [ue5-force-graph53](https://github.com/ProgramIsFun/ue5-force-graph53)  if you want a game client   or   [EonGraph-Web](https://github.com/ProgramIsFun/EonGraph-Web)   if you want a web client 
-## project structure
+## Project structure
 
 It is consist of the following components.
 
