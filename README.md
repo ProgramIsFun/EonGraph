@@ -18,3 +18,5 @@ It is consist of the following components.
 | 5 | Useful Scripts       |  for database management, etc     | [EonGraph-UsefulScripts](https://github.com/ProgramIsFun/EonGraph-UsefulScripts)          | Test code before backend integration.            |
 | 6 | Schema Management          | Graph schema definitions for backend and other components        | [EonGraph-Schema](https://github.com/ProgramIsFun/EonGraph-Schema)      | Schema shared across the project.                |
 
+## Meaning of this project
+1. Just want to have a tool that visualization the connection between things in life. I believe a force directed 3D graph is appropriate. With such connections, I believe it is easier to find something quickly by go through the hops starting from one node to some other node. 
