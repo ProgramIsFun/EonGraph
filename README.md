@@ -2,7 +2,7 @@
 ## About this project
 This is a project of visualizing graphs and Edit them.
 
-> **Note:** We are currently upgrading the Unreal Engine frontend to UE 5.7. The new repository will be temporarily located at [projectname72 - Repos](https://dev.azure.com/orgname71/projectname72/_git/NBodySimulation) during the upgrade process (Azure DevOps charges nothing for LFS).
+> **Note:** We are not actually upgrading the existing project but might create a clone in UE 5.7 instead. The new repository will be temporarily located at [projectname72 - Repos](https://dev.azure.com/orgname71/projectname72/_git/NBodySimulation) during development (Azure DevOps charges nothing for LFS).
 ## How to run it 
 1. run backend [EonGraph-Backend](https://github.com/ProgramIsFun/EonGraph-Backend) according to readme
 2. run  [ue5-force-graph53](https://github.com/ProgramIsFun/ue5-force-graph53)  if you want a game client   or   [EonGraph-Web](https://github.com/ProgramIsFun/EonGraph-Web)   if you want a web client 
